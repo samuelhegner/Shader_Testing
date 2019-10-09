@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\samue\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\samue\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Shader Practice.1127919439.00" t="ExcludeRecursive" />
-    <e p="C:\Users\samue\OneDrive\Dokumente\Unity Projects\Shader Practice" t="IncludeRecursive">
+    <e p="C:\Users\samue\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Shader Practice.-28217037.00" t="ExcludeRecursive" />
+    <e p="F:\Unity Projects\Shader_Testing\Shader Practice" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Advenworks_Cyberpunk_Weapon_Pack" t="Include">
@@ -25,6 +25,7 @@
         <e p="Shaders" t="Include">
           <e p="AppearingObject.shader" t="Include" />
           <e p="Hologram.shader" t="Include" />
+          <e p="SurfaceTest.shader" t="Include" />
         </e>
         <e p="UpdatePosition.cs" t="Include" />
       </e>

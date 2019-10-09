@@ -334,7 +334,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e328f9d53c061e4ca83ca4b888372b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gridSize: 40
+  gridSize: 60
   prefab: {fileID: 7480598356457110648, guid: 5abf480328dd0004a8546a06830421d6, type: 3}
 --- !u!4 &811565730
 Transform:
